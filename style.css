@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+}
+
+.div1{
+    background-color: rgb(41, 39, 39);
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+h1{
+    color: brown;
+    background-color: bisque;
+    text-align: center;
+    padding: 7px;
+}
+.div2,img{
+    text-align: center;
+    background-color: bisque;
+}
+ul li{
+    color: white;
+    text-align: center;
+}
+h4,p{
+    text-align: center;
+}
+.div2 h2{
+    color: brown;
+}
+.submit{
+    background-color: red;
+    color: white;
+}
+a{
+    color: white;
+}
+h2{
+    color: brown;
+}
